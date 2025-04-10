@@ -77,7 +77,7 @@ const Body = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: "easeOut" }}
           >
-            Frontend Engineer / Scrum Master
+            Fontend Engineer / Scrum Master
           </motion.p>
 
           <motion.p
