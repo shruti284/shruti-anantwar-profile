@@ -44,7 +44,7 @@ const features = [
   },
 ];
 const PROFILE_IMG = require("./../assets/Shruti1.jpeg");
-const MY_CV = require("./../assets/Shruti_Fullstack_dev_CV.pdf");
+const MY_CV = require("./../assets/CV-Shruti-Anantwar-April2025.pdf");
 const GITHUB_IMG = require("./../assets/github.png");
 const LINKEDIN_IMG = require("./../assets/linkedin.png");
 
@@ -77,7 +77,7 @@ const Body = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 1, ease: "easeOut" }}
           >
-            Frontend Engineer / Scrum Master
+            Frontend Engineer / Scrum Master / Co Founder of <a href="https://www.tripsterai.com" target="_blank"><b>Tripster AI</b></a>
           </motion.p>
 
           <motion.p
